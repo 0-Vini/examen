@@ -1,0 +1,1 @@
+Los sistemas operativos son sistemas encargados de gestionar los recursos de un sistema, existen los generales y específicos, y estos se diferencian por las tareas que llevan a cabo. Los software son muy flexibles y personalizables para el usuario y existen una gran cantidad dependiendo las necesidades
